@@ -1,0 +1,27 @@
+﻿# Build
+bin/
+obj/
+out/
+
+# User files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Others
+*.log
+*.tmp
+*.bak
+*.dbmdl
+*.pdb
+_ReSharper*/
+artifacts/
+packages/
